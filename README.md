@@ -1,5 +1,5 @@
-# An introduction to Open Data for Open Data Day 2014 @ Hackforge & OpenDataWindsorEssex  
+# An introduction to Open Data Science for HackWE 3.0 @ The Windsor Public Library
 
-A presentation by Mita Williams on February 22nd, 2014
+A presentation by Mita Williams on October 17th, 2014
 Uses reveal.js
-View this presentation online at: http://copystar.github.io/odwe-odd14
+View this presentation online at: http://copystar.github.io/OpenDataSci
